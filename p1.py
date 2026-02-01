@@ -1,1 +1,1 @@
-print("core-kernel INSERT")
+print("core-kernel UPDATE")
